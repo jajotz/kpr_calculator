@@ -1,0 +1,9 @@
+C:\Users\Jastian\net\KPR_Calculator\KPR_Calculator\bin\Debug\KPR_Calculator.exe.config
+C:\Users\Jastian\net\KPR_Calculator\KPR_Calculator\bin\Debug\KPR_Calculator.exe
+C:\Users\Jastian\net\KPR_Calculator\KPR_Calculator\bin\Debug\KPR_Calculator.pdb
+C:\Users\Jastian\net\KPR_Calculator\KPR_Calculator\obj\Debug\KPR_Calculator.csprojAssemblyReference.cache
+C:\Users\Jastian\net\KPR_Calculator\KPR_Calculator\obj\Debug\KPR_Calculator.Form1.resources
+C:\Users\Jastian\net\KPR_Calculator\KPR_Calculator\obj\Debug\KPR_Calculator.Properties.Resources.resources
+C:\Users\Jastian\net\KPR_Calculator\KPR_Calculator\obj\Debug\KPR_Calculator.csproj.GenerateResource.cache
+C:\Users\Jastian\net\KPR_Calculator\KPR_Calculator\obj\Debug\KPR_Calculator.exe
+C:\Users\Jastian\net\KPR_Calculator\KPR_Calculator\obj\Debug\KPR_Calculator.pdb
